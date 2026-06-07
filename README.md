@@ -1,83 +1,76 @@
-<h1 align="center">
-
-Radha Teli
-
-</h1>
-
-<h3 align="center">
-
-Finance × Marketing × Analytics 
-
-</h3>
-
-<p align="center">
-
-Transforming Business Problems Into Analytical Solutions
-
-</p>
-
----
-
 <div align="center">
 
-Business Analytics • Strategy • Research • Data Driven Thinking
+# ⟨ R A D H A   T E L I ⟩
+
+### Finance × Analytics × Marketing × Strategy
+
+### Turning Numbers Into Business Decisions
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=700&lines=Business+Analytics;Finance+%26+Strategy;Mathematics+Driven+Thinking;SQL+%7C+Python+%7C+PowerBI"/>
 
 </div>
 
 ---
 
-# ∑ About Me
+<div align="center">
 
-```math
-Business\ Success =
-Finance + Strategy + Analytics + Decision\ Making
-````
+### ∑ Analytics | Finance | Marketing | Strategy | Mathematics
 
-🎓 M.Sc. Economics and Management  
-
-📈 Interested in Finance, Marketing, Analytics & Business Strategy
-
-🧠 Passionate about solving business problems using analytical thinking
-
-📊 Exploring how data transforms business decisions into measurable impact
+</div>
 
 ---
 
-# Current Equation
+# About Me
 
 ```math
-Growth = Learning + Projects + Consistency
-```
+Business\ Growth =
+Data + Strategy + Financial\ Decisions
+````
 
-✓ Business Analytics
+🎓 M.Sc. Economics and management 
+
+📈 Interested in Finance, Analytics, Marketing & Business Strategy
+
+🧠 Using analytical thinking to solve real business problems
+
+📊 Exploring how numbers drive decision-making
+
+---
+
+# Current Formula
+
+```math
+Success =
+Consistency × Learning × Execution
+```
 
 ✓ Financial Analysis
 
-✓ Marketing Research
+✓ Business Analytics
 
-✓ SQL & Databases
+✓ Market Research
 
-✓ Strategy & Problem Solving
+✓ Strategy Development
 
-✓ Data Analysis
+✓ Data Driven Decision Making
 
 ---
 
-# Skills & Tools
+# Skills
 
-### Analytics Stack
+## Analytics Stack
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 
 </p>
 
-### Business & Visualization
+## Business Stack
 
 <p>
 
@@ -91,31 +84,31 @@ Growth = Learning + Projects + Consistency
 
 # Domains
 
-### 💰 Finance Analytics
+## Finance Analytics
 
 • Capital Budgeting
 
 • Financial Ratio Analysis
 
-• Business Performance Evaluation
+• Investment Decisions
 
-• Financial Decision Making
+• Business Performance Analysis
 
 ---
 
-### 📈 Marketing & Strategy
+## Marketing & Research
 
 • Consumer Research
 
+• Business Strategy
+
 • Market Analysis
 
-• Strategic Thinking
-
-• Business Research
+• Competitor Analysis
 
 ---
 
-### 📊 Analytics
+## Analytics
 
 • SQL
 
@@ -129,76 +122,74 @@ Growth = Learning + Projects + Consistency
 
 ---
 
-# Featured Work
+# Featured Projects
 
-## ⚖️ KanoonSaathi Startup Project
+## ⚖ KanoonSaathi Startup Project
 
-Startup Concept + Business Model + Website Idea
+✓ Startup Idea Development
 
-✓ Customer pain point analysis
+✓ Website Flow Design
 
-✓ Startup strategy development
+✓ Business Model Analysis
 
-✓ Website flow creation
-
-✓ Technology driven legal accessibility solution
-
----
+✓ Technology Driven Legal Accessibility
 
 ## 🎬 OTT vs Cinema Research
 
-Research Methodology:
+✓ Primary & Secondary Research
 
-✓ Primary + Secondary Research
-
-✓ 85 Respondents
-
-✓ Consumer Behavior Analysis
+✓ Consumer Behaviour Analysis
 
 ✓ SWOT Analysis
 
+✓ Research Methodology
+
 ✓ Strategic Recommendations
 
----
-
-## 📑 Business Case Studies
+## 📑 Case Studies
 
 ✓ Market Analysis
-
-✓ Competitor Analysis
 
 ✓ Problem Solving
 
 ✓ Strategic Recommendations
 
-# GitHub Activity
+✓ Business Decision Making
 
-<p align="center">
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=radhateli&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=radhateli&show_icons=true&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# Creative Contact Corner
+# Contribution Graph
 
-```math
-Let's\ Connect =
-Curiosity + Collaboration
-```
+<div align="center">
 
-📧 Email:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhateli&theme=tokyo-night"/>
 
-[radha952121@gmail.com](mailto:radha952121@gmail.com)
+</div>
 
-💼 LinkedIn:
+---
 
-linkedin.com/in/radha-teli-845735356
+# Connect With Me
 
-💻 GitHub:
+<div align="center">
 
-github.com/radhateli
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/radha-teli-845735356)
+
+[![Gmail](https://img.shields.io/badge/GMAIL-EMAIL_ME-red?style=for-the-badge\&logo=gmail)](mailto:radha952121@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-black?style=for-the-badge\&logo=github)](https://github.com/radhateli)
+
+</div>
 
 ---
 
