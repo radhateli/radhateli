@@ -1,102 +1,158 @@
-<h1 align="center">📊 Finance × Marketing × Analytics</h1>
-
-<h3 align="center">
+````markdown
+<h1 align="center">
 
 Radha Teli
 
-Turning Business Problems Into Analytical Solutions
+</h1>
+
+<h3 align="center">
+
+Finance × Marketing × Analytics × Mathematics
 
 </h3>
+
+<p align="center">
+
+Transforming Business Problems Into Analytical Solutions
+
+</p>
 
 ---
 
 <div align="center">
 
-Business Analytics | Finance | Marketing | Strategy | Data Driven Decision Making
+Business Analytics • Strategy • Research • Data Driven Thinking
 
 </div>
 
 ---
 
-# 👋 About Me
+# ∑ About Me
 
-🎓 M.Sc. Economics and Manegement 
+```math
+Business\ Success =
+Finance + Strategy + Analytics + Decision\ Making
+````
 
-📈 Passionate about Finance, Analytics, Marketing & Business Strategy
+🎓 M.Sc. Economics and Management  
 
-🧠 Interested in solving real-world business problems through analytical thinking
+📈 Interested in Finance, Marketing, Analytics & Business Strategy
 
-🌍 Building projects combining business understanding with data-driven approaches
+🧠 Passionate about solving business problems using analytical thinking
+
+📊 Exploring how data transforms business decisions into measurable impact
 
 ---
 
-# 🎯 Current Focus
+# Current Equation
 
-✓ SQL & Databases
+```math
+Growth = Learning + Projects + Consistency
+```
 
 ✓ Business Analytics
 
 ✓ Financial Analysis
 
-✓ Market Research
+✓ Marketing Research
 
-✓ Strategy & Decision Making
+✓ SQL & Databases
+
+✓ Strategy & Problem Solving
 
 ✓ Data Analysis
 
 ---
 
-# 🛠 Skills & Tools
+# Skills & Tools
 
-## Analytics
+### Analytics Stack
 
-![SQL](https://img.shields.io/badge/SQL-blue)
+<p>
 
-![Excel](https://img.shields.io/badge/Excel-green)
+<img src="https://skillicons.dev/icons?i=python"/>
 
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
 
-![Python](https://img.shields.io/badge/Python-orange)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 
-![R](https://img.shields.io/badge/R-blue)
+</p>
 
----
+### Business & Visualization
 
-## Domains
+<p>
 
-💰 Finance Analytics
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
-📈 Marketing Strategy
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-📊 Business Analytics
-
-🧠 Business Decision Making
-
-📑 Market Research
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# Domains
+
+### 💰 Finance Analytics
+
+• Capital Budgeting
+
+• Financial Ratio Analysis
+
+• Business Performance Evaluation
+
+• Financial Decision Making
+
+---
+
+### 📈 Marketing & Strategy
+
+• Consumer Research
+
+• Market Analysis
+
+• Strategic Thinking
+
+• Business Research
+
+---
+
+### 📊 Analytics
+
+• SQL
+
+• Python
+
+• R
+
+• Excel
+
+• Power BI
+
+---
+
+# Featured Work
 
 ## ⚖️ KanoonSaathi Startup Project
 
-Startup Concept + Website Idea + Business Model
-
-✓ Startup strategy development
+Startup Concept + Business Model + Website Idea
 
 ✓ Customer pain point analysis
 
+✓ Startup strategy development
+
 ✓ Website flow creation
 
-✓ Technology driven legal solution
+✓ Technology driven legal accessibility solution
 
 ---
 
 ## 🎬 OTT vs Cinema Research
 
-✓ 85 Respondents
+Research Methodology:
 
 ✓ Primary + Secondary Research
+
+✓ 85 Respondents
 
 ✓ Consumer Behavior Analysis
 
@@ -108,54 +164,64 @@ Startup Concept + Website Idea + Business Model
 
 ## 📑 Business Case Studies
 
-✓ Competitor Analysis
-
 ✓ Market Analysis
 
-✓ Business Strategy
+✓ Competitor Analysis
 
 ✓ Problem Solving
 
+✓ Strategic Recommendations
+
 ---
 
-# 📈 GitHub Analytics
+# Mathematics × Business
+
+```math
+ROI = \frac{Return - Investment}{Investment}
+```
+
+```math
+Decision\ Quality \propto Information × Analysis
+```
+
+```math
+Data + Logic = Better\ Decisions
+```
+
+---
+
+# GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=radhateli&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Graph
+# Creative Contact Corner
 
-<p align="center">
+```math
+Let's\ Connect =
+Curiosity + Collaboration
+```
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+📧 Email:
 
-</p>
+[radha952121@gmail.com](mailto:radha952121@gmail.com)
+
+💼 LinkedIn:
+
+(Add Your LinkedIn Here)
+
+💻 GitHub:
+
+github.com/radhateli
 
 ---
 
-# 💡 Quote
+> "Numbers tell stories. Strategy creates impact."
 
-> "Transforming business problems into analytical solutions."
-
----
-
-# 🌐 Connect With Me
-
-LinkedIn:
-
-YOUR LINKEDIN URL
-
-GitHub:
-
-https://github.com/YOUR_USERNAME
-
-Email:
-
-YOUR EMAIL
+```
+```
