@@ -6,7 +6,7 @@ Radha Teli
 
 <h3 align="center">
 
-Finance × Marketing × Analytics × Mathematics
+Finance × Marketing × Analytics 
 
 </h3>
 
@@ -171,24 +171,6 @@ Research Methodology:
 
 ✓ Strategic Recommendations
 
----
-
-# Mathematics × Business
-
-```math
-ROI = \frac{Return - Investment}{Investment}
-```
-
-```math
-Decision\ Quality \propto Information × Analysis
-```
-
-```math
-Data + Logic = Better\ Decisions
-```
-
----
-
 # GitHub Activity
 
 <p align="center">
@@ -212,7 +194,7 @@ Curiosity + Collaboration
 
 💼 LinkedIn:
 
-(Add Your LinkedIn Here)
+linkedin.com/in/radha-teli-845735356
 
 💻 GitHub:
 
