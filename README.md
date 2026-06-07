@@ -1,61 +1,159 @@
-## 👋 Welcome to My GitHub!
+<h1 align="center">📊 Marketing • Finance • Analytics</h1>
 
-## Hi, I'm Radha Teli 🌸
-
-🎓 Management Student passionate about solving real-world business problems through analytical thinking and data-driven approaches.
-
-### 🚀 What You'll Find Here
-
-📊 **Finance Projects**
-
-* Capital Budgeting
-* Ratio Analysis
-* Financial Analysis & Decision Making
-
-📈 **Marketing & Research Projects**
-
-* OTT & Cinema Research
-* Case Studies
-* Consumer & Market Analysis
-
-💻 **Analytics & Problem Solving**
-
-* SQL Practice & LeetCode
-* Data Analysis
-* Business Insights
-
-### 🌱 Currently Learning
-
-* SQL & Databases
-* Business Analytics
-* Financial Analysis
-* Research & Strategy
-
-### 🎯 Goals
-
-✓ Build impactful analytical projects
-✓ Improve problem-solving skills
-✓ Create data-driven business solutions
-✓ Continuously learn and grow
+<h3 align="center">
+Turning Business Problems Into Analytical Solutions
+</h3>
 
 ---
 
-### ✨ “Turning business problems into analytical solutions.”
+# 👋 Hi, I'm Radha Teli
 
-Thanks for visiting my profile 😊
+🎓 MBA Student
 
+📈 Passionate about Finance, Marketing, Analytics & Strategy
 
-<!--
-**radhateli/radhateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Interested in solving business problems through data-driven thinking
 
-Here are some ideas to get you started:
+🌍 Exploring real-world business decisions through projects and simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Current Focus
+
+✓ Business Analytics
+
+✓ SQL & Data Analysis
+
+✓ Financial Analysis
+
+✓ Research & Strategy
+
+✓ Problem Solving
+
+---
+
+# 📚 Domains
+
+## 💰 Finance Analytics
+
+• Financial Analysis
+
+• Capital Budgeting
+
+• Ratio Analysis
+
+• Business Performance Evaluation
+
+---
+
+## 📈 Marketing & Strategy
+
+• Consumer Research
+
+• Market Analysis
+
+• Business Strategy
+
+• Customer Behavior Analysis
+
+---
+
+## 📊 Analytics
+
+• SQL
+
+• Excel
+
+• Power BI
+
+• Data Analysis
+
+• Business Insights
+
+---
+
+# 🌟 Featured Projects
+
+## ⚖️ KanoonSaathi Startup Project
+
+### Startup Concept + Website Idea + Business Model
+
+✓ Developed startup concept from problem identification
+
+✓ Created rough website interface
+
+✓ Designed solution for legal accessibility
+
+📄 Project:
+
+[Startup Report](./KanoonSaathi_Startup_Report.pdf)
+
+---
+
+## 🎬 OTT vs Cinema Research
+
+### Consumer Behavior & Market Research
+
+✓ 85 Respondents Survey
+
+✓ Primary + Secondary Research
+
+✓ Consumer Preference Analysis
+
+✓ SWOT Analysis
+
+✓ Strategic Recommendations
+
+📄 Project:
+
+[Research Report](./Future_of_Cinema_Vs_OTT.pdf)
+
+---
+
+## 📑 Business Case Studies
+
+### Strategic Problem Solving
+
+✓ Market Analysis
+
+✓ Competitor Analysis
+
+✓ Growth Strategy
+
+✓ Business Recommendations
+
+📄 Project:
+
+[Case Study Report](./casestudy report.pdf)
+
+---
+
+# 🛠 Tools & Skills
+
+### Analytics
+
+![SQL](https://img.shields.io/badge/SQL-blue)
+
+![Excel](https://img.shields.io/badge/Excel-green)
+
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+
+### Business
+
+![Finance](https://img.shields.io/badge/Finance-orange)
+
+![Marketing](https://img.shields.io/badge/Marketing-red)
+
+![Analytics](https://img.shields.io/badge/Analytics-blue)
+
+---
+
+# 🎯 Goal
+
+Build impactful analytical projects that combine finance, strategy, marketing, and data-driven decision making.
+
+---
+
+> "Transforming business problems into analytical solutions."
+
+⭐ Explore my projects and research work
